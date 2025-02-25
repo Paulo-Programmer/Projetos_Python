@@ -12,9 +12,6 @@ lista_compra = []
 total_preco = 0.0
 CAMINHO_ARQUIVO = 'lista_compra.txt'
 
-# def total_compra(item):
-#     total_preco = +item
-#     return total_preco 
 
 #Função para carregar os itens da Lista em um arquivo TXT
 def carregar_lista_compra():
